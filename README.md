@@ -84,12 +84,6 @@
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=robert-tang-0207&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Robert Tang's GitHub Stats" />
-</div>
-
 ---
 
 <div align="center">
