@@ -22,7 +22,7 @@
 
 ## 💻 Engineering Journey
 
-### Staff Software Engineer @ Binance | Jun 2019 - Sep 2025
+### Staff Software Engineer @ Binance | Jun 2019 - Apr 2026
 
 <img align="right" width="120" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Binance_logo.svg">
 
