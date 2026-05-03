@@ -5,13 +5,13 @@
 [![Email](https://img.shields.io/badge/Email-robert.tang.dev.27%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:robert.tang.dev.27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/robert-tang-15b0b334a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/robert-tang-0207)
-[![Location](https://img.shields.io/badge/Location-Houston,%20TX-orange?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Houston,+TX)
+[![Location](https://img.shields.io/badge/Location-Houston,%20TX-orange?style=flat-square&logo=google-maps)](https://www.google.com/maps/place/Dickinson,+TX)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-4285F4?style=flat-square&logo=google-chrome)](https://robert-tang.dev)
-[![Phone](https://img.shields.io/badge/Phone-(281)%20645--3785-green?style=flat-square&logo=whatsapp)](tel:+12816453785)
+[![Phone](https://img.shields.io/badge/Phone-(281)%20645--3785-green?style=flat-square&logo=whatsapp)](tel:+18326801761)
 
 </div>
 
-> **Staff Software Engineer** with 12 years of experience, early Slack team member building core messaging systems, later scaling Binance's trading platforms with DevOps expertise. Proficient in 10+ backend languages, modern architectures, advanced algorithms.
+> **Staff Engineer** with 12 years of experience building distributed systems, including core messaging infrastructure at Slack and high-throughput trading platforms at Binance. Actively expanding hands-on expertise in AI-integrated backend systems.
 
 ## ✨ What I Bring to the Table
 
@@ -19,6 +19,7 @@
 - **Full-Stack Expertise**: Developed both backend systems and responsive frontend interfaces with real-time data visualization
 - **Cloud Infrastructure**: Leveraged AWS services to build scalable and resilient infrastructure with high availability
 - **Blockchain Development**: Built smart contracts and optimized node infrastructure, enabling seamless cross-chain interoperability
+- **AI-Integrated Systems**: Built AI-assisted trade signal classifiers and RAG-based compliance assistants using OpenAI, LangChain, and Pinecone to automate insights and reduce manual research time
 
 ## 💻 Engineering Journey
 
@@ -27,27 +28,30 @@
 <img align="right" width="120" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Binance_logo.svg">
 
 **Core Trading Platform Enhancements**
-- Architected a high-performance order-book matching engine using **Java/Spring Boot**, **.NET** and **Node.js**, enabling low-latency trade execution for millions of daily transactions
-- Designed and developed a responsive frontend trading interface using **React** and **TypeScript**, integrating WebSocket streams for real-time market data visualization
-- Developed real-time WebSocket APIs to support live price feeds and futures trading, increasing user engagement by **25%**
-- Optimized **PostgreSQL** and **MongoDB** database performance through query refactoring and indexing, achieving a **40% reduction** in execution time
+- Built a high-performance order-book matching engine using **Node.js**, **Java/Spring Boot** and **.NET**, enabling low-latency trade execution for millions of daily transactions.
+- Developed real-time **WebSocket** APIs to support live price feeds and futures trading, increasing user engagement by 25%.
+- Designed and developed a responsive frontend trading interface using **React** and **TypeScript**, integrating WebSocket streams for real-time market data visualization, enhancing user experience and accessibility.
+- Prototyped an **AI-assisted** trade signal classifier using **Python** and **OpenAI API**, layered on top of existing WebSocket data streams to deliver real-time market sentiment summaries to internal trading dashboards.
+- Optimized **PostgreSQL** and **MongoDB** database performance through query refactoring and indexing, achieving a 40% reduction in execution time.
+- Leveraged **AWS** services including EC2, ECS, CloudFormation, and CloudWatch to build and maintain trading infrastructure capable of handling sustained peak loads with minimal operational overhead.
+- Established **CI/CD** pipelines using **Docker** and **Jenkins** with Jest and JUnit testing frameworks, achieving 95% code coverage and ensuring seamless deployments with minimal production defects.
+- Integrated **GitHub Copilot**, **Cursor**, and **Claude** into engineering workflows to accelerate code generation, documentation, and code review across the team.
+- **Mentored** five junior engineers through code reviews, architecture discussions, and sprint planning, cutting feature cycle times and raising overall code quality across the team. 
 
-**DevOps & Infrastructure**
-- Leveraged **AWS** services including EC2, ECS, CloudFormation, API Gateway, and CloudWatch to build scalable and resilient infrastructure
-- Established CI/CD pipelines using **Docker** and **Jenkins** with Jest and JUnit testing frameworks, achieving **95% code coverage**
-- Mentored a team of five junior engineers, fostering technical growth and Agile collaboration
+**Big Data and Analytics Projects**
+- Designed **real-time data pipelines** using **Apache Spark** and **Kafka** to process market data, supporting trading analytics and risk management.
+- Built a **RAG**-based compliance assistant using **LangChain** and **Pinecone**, enabling internal teams to query regulatory policies and trading documentation through natural language, reducing manual compliance research time by 35%.
+- Built **Elasticsearch** and **Grafana** dashboards that gave compliance and operations teams direct visibility into trading activity and user behavior patterns.
 
-**Blockchain & Data Projects**
-- Built smart contracts in **Solidity** and optimized node infrastructure with **Golang**, enhancing transaction efficiency on BNB Chain
-- Integrated cross-chain solutions with Ethereum, Solana and Polygon, enabling seamless interoperability
-- Designed real-time data pipelines using **Apache Spark** and **Kafka** to process market data for analytics and risk management
-- Developed dashboards with **Elasticsearch** and **Grafana**, delivering actionable insights for compliance and user behavior analysis
+**Binance Smart Chain (BSC) Development**
+- Built smart contracts in **Solidity** and optimized node infrastructure with **Golang**, enhancing transaction efficiency on BNB Chain.
+- Integrated **cross-chain** bridges with Ethereum, Solana and Polygon, enabling dApps to operate across multiple networks without protocol-level friction. 
 
 ### Senior Software Engineer @ Slack | Jun 2013 - May 2019
 
 <img align="right" width="120" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg">
 
-**App Integrations & Ecosystem Expansion**
+**Slack App Integrations and Ecosystem Expansion**
 - Built and maintained **Node.js**-based APIs and SDKs, enabling over 500 third-party integrations in the Slack App Directory
 - Developed event-driven webhook systems using **Kafka** to facilitate real-time data sync with apps like Jira and Dropbox
 - Implemented secure **OAuth2** authentication for app integrations, ensuring robust data privacy for millions of users
@@ -73,6 +77,7 @@
 | **Databases & Storage** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 | **Security & Monitoring** | ![OAuth2](https://img.shields.io/badge/-OAuth2-000000?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![DataDog](https://img.shields.io/badge/-DataDog-632CA6?style=flat-square&logo=datadog&logoColor=white) |
+| **AI/ML & Tools** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) |
 
 </div>
 
